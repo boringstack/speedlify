@@ -12,6 +12,6 @@ module.exports = {
 		freshChrome: "site",
 	},
 	urls: [
-		"https://rebecaperez.netlify.app"
+		"https://rebecaperez.netlify.app/",
 	]
 };
